@@ -1,6 +1,40 @@
+# Project related files 
 *.swp 
 *.swo
 MQTTClient-C/samples/linux/MQTTClient.h
 MQTTClient-C/samples/linux/MQTTClient.c
 MQTTClient-C/samples/linux/pub
 MQTTClient-C/samples/linux/stdoutsub
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
