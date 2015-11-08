@@ -1,0 +1,6 @@
+*.swp 
+*.swo
+MQTTClient-C/samples/linux/MQTTClient.h
+MQTTClient-C/samples/linux/MQTTClient.c
+MQTTClient-C/samples/linux/pub
+MQTTClient-C/samples/linux/stdoutsub
